@@ -1,0 +1,13 @@
+{
+  "name": "ext1",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.1.1"
+  },
+  "devDependencies": {
+  },
+  "author": "Mathias Keus",
+  "license": "ISC"
+}
