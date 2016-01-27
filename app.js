@@ -1,3 +1,8 @@
+
+/** 
+ * @author Mathias Keus 013882396
+ */
+ 
 process.chdir(__dirname);
 
 var fs = require('fs');
